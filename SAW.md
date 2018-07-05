@@ -9,5 +9,5 @@ Launch *SAW CLI* and build Solutions on your PC.
 
 |||
 --- | ---
-[![](https://ciqsdatastorage.blob.core.windows.net/sawweb/saw-stable.png)](Meh) | [Latest stable release](https://ciqsdatastorage.blob.core.windows.net/saw/saw.prod.application)
-[![](https://ciqsdatastorage.blob.core.windows.net/sawweb/saw-unstable.png)](Meh) | [Latest build](https://ciqstestdatastorage.blob.core.windows.net/saw/saw.int.application) (unstable)<br>*Be on the bleeding edge.*
+[![](https://github.com/jadesai/testrepo/blob/master/saw-stable.png?raw=true)](Meh) | [Latest stable release](https://ciqsdatastorage.blob.core.windows.net/saw/saw.prod.application)
+[![](https://github.com/jadesai/testrepo/blob/master/saw-unstable.png?raw=true)](Meh) | [Latest build](https://ciqstestdatastorage.blob.core.windows.net/saw/saw.int.application) (unstable)<br>*Be on the bleeding edge.*
